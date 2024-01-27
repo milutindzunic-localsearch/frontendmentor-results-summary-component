@@ -5,7 +5,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,7 +14,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/screenshot_chrome_desktop.png)
 ![](./screenshots/screenshot_chrome_mobile.png)
