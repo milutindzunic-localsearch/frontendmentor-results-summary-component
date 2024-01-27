@@ -10,7 +10,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 ## Overview
 
@@ -21,8 +20,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Here]https://github.com/milutindzunic-localsearch/frontendmentor-results-summary-component)
-- Live Site URL: [Here](https://milutindzunic-localsearch.github.io) - not guaranteed to be up at the moment you're reading this :)
+- Solution URL: [https://github.com/milutindzunic-localsearch/frontendmentor-results-summary-component](https://github.com/milutindzunic-localsearch/frontendmentor-results-summary-component)
+- Live Site URL: [https://milutindzunic-localsearch.github.io/frontend-mentor/results-summary-component](https://milutindzunic-localsearch.github.io/frontend-mentor/results-summary-component)
 
 ## My process
 
